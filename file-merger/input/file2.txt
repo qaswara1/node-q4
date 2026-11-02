@@ -1,3 +1,0 @@
-file2 - line 1
-file2 - line 2
-file2 - line 3

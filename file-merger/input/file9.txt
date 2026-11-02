@@ -1,6 +1,0 @@
-file9 - line 1
-file9 - line 2
-file9 - line 3
-file9 - line 4
-file9 - line 5
-file9 - line 6

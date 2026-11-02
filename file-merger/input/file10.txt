@@ -1,7 +1,0 @@
-file10 - line 1
-file10 - line 2
-file10 - line 3
-file10 - line 4
-file10 - line 5
-file10 - line 6
-file10 - line 7
