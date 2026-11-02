@@ -1,0 +1,5 @@
+file4 - line 1
+file4 - line 2
+file4 - line 3
+file4 - line 4
+file4 - line 5
